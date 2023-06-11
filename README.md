@@ -6,13 +6,15 @@
 
 ## Acridotheres javanicus - Javan Myna
 
-Native to the islands of Bali and Java in Indonesia , the Javan myna, scientifically known as Acridotheres javanicus, belongs to the family Sturnidae, a diverse group of passerine birds — birds characterised by their perching behaviour.  Javan mynas are expert vocalists, using a wide range of trills, whistles and caws to communicate, prompting their capture and trade as songbirds. Through this songbird trade, A. javanicus was introduced into Singapore at around 1924   . Escaped or released pet mynas then established a population which, over the years, eventually burgeoned to over a hundred thousand individuals . In modern Singapore, the avians are often observed foraging and picking off discarded or unattended food in residential districts, food centres and other urban areas. Via a similar process, the Javan myna was introduced into other countries in Southeast Asia including Vietnam, Thailand, Malaysia and the other islands of Indonesia  and have become a ubiquitous feature of the urban landscapes of these places. Though their calls and songs might once be considered pleasant, they are now associated with headache-inducing, sleep-depriving, raucous cacophonies, particularly in areas where they congregate. 
+Native to the islands of Bali and Java in Indonesia[^1], the Javan myna, scientifically known as *Acridotheres javanicus*, belongs to the family Sturnidae, a diverse group of passerine birds — birds characterised by their perching behaviour.[^2] Javan mynas are expert vocalists, using a wide range of trills, whistles and caws to communicate, prompting their capture and trade as songbirds. Through this songbird trade, *A. javanicus* was introduced into Singapore at around 1924.[^3][^4] Escaped or released pet mynas then established a population which, over the years, eventually burgeoned to over a hundred thousand individuals[^5]. In modern Singapore, the avians are often observed foraging and picking off discarded or unattended food in residential districts, food centres and other urban areas. Via a similar process, the Javan myna was introduced into other countries in Southeast Asia including Vietnam, Thailand, Malaysia and the other islands of Indonesia and have become a ubiquitous feature of the urban landscapes of these places.[^6] Though their calls and songs might once be considered pleasant, they are now associated with headache-inducing, sleep-depriving, raucous cacophonies, particularly in areas where they congregate.[^7] 
+<param ve-image 
+       title="Javan Myna" 
+       url="https://en.wikipedia.org/wiki/Javan_myna#/media/File:Acridotheres_javanicus_-_Kent_Ridge_Park.jpg"
+       description="A Javan myna, characterised by their grey plume and yellow beaks"
+       attribution="JJ Harrison (https://tiny.jjharrison.com.au/t/YB68VBb3iPkna4Pg)"
+       license="CC BY-NC"
+       fit="contain">
 
-(Can include map of distribution here)
-
- 
-JJ Harrison (https://tiny.jjharrison.com.au/t/YB68VBb3iPkna4Pg) - Own work. under wikimedia Commons.
-https://en.wikipedia.org/wiki/Javan_myna#/media/File:Acridotheres_javanicus_-_Kent_Ridge_Park.jpg
 
 The success of the Javan myna in Singapore stands in stark contrast to its plight in its native range. In Bali and Java, the Javan myna faces a declining population due to habitat destruction and poaching affording them an IUCN Red List of Threatened Species classification of 'vulnerable'.  Only 2,500 to 9,999 Javan mynas are extant in their native ranges in Bali and Java.  In sharp contrast, the Javan myna has thrived in the urban environment of Singapore, with an estimated population of over 168,000 individuals in the year 2000. 
 
