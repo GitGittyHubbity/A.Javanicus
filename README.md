@@ -6,23 +6,23 @@
 
 ## Acridotheres javanicus - Javan Myna
 
-Native to the islands of Bali and Java in Indonesia[^1], the Javan myna, scientifically known as *Acridotheres javanicus*, belongs to the family Sturnidae, a diverse group of passerine birds — birds characterised by their perching behaviour.[^2] Javan mynas are expert vocalists, using a wide range of trills, whistles and caws to communicate, prompting their capture and trade as songbirds. Through this songbird trade, *A. javanicus* was introduced into Singapore at around 1924.[^3][^4] Escaped or released pet mynas then established a population which, over the years, eventually burgeoned to over a hundred thousand individuals[^5]. In modern Singapore, the avians are often observed foraging and picking off discarded or unattended food in residential districts, food centres and other urban areas. Via a similar process, the Javan myna was introduced into other countries in Southeast Asia including Vietnam, Thailand, Malaysia and the other islands of Indonesia and have become a ubiquitous feature of the urban landscapes of these places.[^6] Though their calls and songs might once be considered pleasant, they are now associated with headache-inducing, sleep-depriving, raucous cacophonies, particularly in areas where they congregate.[^7] 
+Native to the islands of Bali and Java in Indonesia[^1], the Javan myna, scientifically known as *Acridotheres javanicus*, belongs to the family Sturnidae, a diverse group of passerine birds — birds characterised by their perching behaviour.[^2] Javan mynas are expert vocalists, using a wide range of trills, whistles and caws to communicate, prompting their capture and trade as songbirds. Through this songbird trade, *A. javanicus* was introduced into Singapore around 1924.[^3][^4] Escaped or released pet mynas then established a population which, over the years, eventually burgeoned to over a hundred thousand individuals[^5]. In modern Singapore, the avians are often observed foraging and picking off discarded or unattended food in residential districts, food centres and other urban areas. Via a similar process, the Javan myna was introduced into other countries in Southeast Asia including Vietnam, Thailand, Malaysia and the other islands of Indonesia and has become a ubiquitous feature of the urban landscapes of these places.[^6] Though their calls and songs might once have been considered pleasant, they are now associated with headache-inducing, sleep-depriving, raucous cacophonies, particularly in areas where they congregate.[^7] 
 <param ve-image 
        title="Javan Myna" 
-       url="https://en.wikipedia.org/wiki/Javan_myna#/media/File:Acridotheres_javanicus_-_Kent_Ridge_Park.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Acridotheres_javanicus_-_Kent_Ridge_Park.jpg"
        description="A Javan myna, characterised by their grey plume and yellow beaks"
        attribution="JJ Harrison (https://tiny.jjharrison.com.au/t/YB68VBb3iPkna4Pg)"
        license="CC BY-NC"
        fit="contain">
 
 
-The success of the Javan myna in Singapore stands in stark contrast to its plight in its native range. In Bali and Java, the Javan myna faces a declining population due to habitat destruction and poaching affording them an IUCN Red List of Threatened Species classification of 'vulnerable'.  Only 2,500 to 9,999 Javan mynas are extant in their native ranges in Bali and Java.  In sharp contrast, the Javan myna has thrived in the urban environment of Singapore, with an estimated population of over 168,000 individuals in the year 2000. 
+The success of the Javan myna in Singapore stands in stark contrast to its plight in its native range. In Bali and Java, the Javan myna faces a declining population due to habitat destruction and poaching affording them an IUCN Red List of Threatened Species classification of 'vulnerable'.  Only 2,500 to 9,999 Javan mynas are extant in their native ranges in Bali and Java.[^8] In sharp contrast, the Javan myna has thrived in the urban environment of Singapore, with an estimated population of over 168,000 individuals in the year 2000.[^9]
 
  
 Distribution of Javan mynas in Singapore - Data and construction by Boo, J.T.C., K.E. Ong, X.R. Ong & E.J.Y. Soh, 2013.
 Retrieved from https://wiki.nus.edu.sg/display/TAX/Acridotheres+javanicus+-+Javan+Myna#Footnote11
 
-Javan mynas have become a familiar sight in Singapore, perching on trees and buildings, and their distinctive calls can be heard throughout the city. The main reason for the Javan mynas’ success, is that they are highly adaptable and are opportunistic feeders, consuming a variety of foods including fruits, insects, small vertebrates, and human leftovers. Like many urban-adapted animals, the Javan myna is not only extremely tolerant of humans, but are bold enough to feed and forage near humans, leading to them being a common sight in food centres and other areas where food waste is abundant. Their boldness also enabled them to access other ephemeral food sources present within urban districts.  Javan mynas are reportedly unafraid to steal food from kitchens, or raid the food bowls of pets.  In foraging, the mynas also exhibit a measure of intelligence. Some have learned to associate the gardening activities of humans with the displacement of subterranean arthropods like millipedes and worms and have taken to congregating around gardeners for an easy meal. 
+Javan mynas have become a familiar sight in Singapore, perching on trees and buildings, and their distinctive calls can be heard throughout the city. The main reason for the Javan mynas’ success, is that they are highly adaptable and are opportunistic feeders, consuming a variety of foods including fruits, insects, small vertebrates, and human leftovers. Like many urban-adapted animals, Javan mynas are not only extremely tolerant of humans but are bold enough to feed and forage near humans, leading to them being a common sight in food centres and other areas where food waste is abundant. Their boldness also enables them to access other ephemeral food sources present within urban districts.[^10] Javan mynas are reportedly unafraid to steal food from kitchens, or raid the food bowls of pets.[^10] In foraging, the mynas also exhibit a measure of intelligence. Some have learned to associate the gardening activities of humans with the displacement of subterranean arthropods like millipedes and worms and have taken to congregating around gardeners for an easy meal.[^10]
  
 By Wee YC from https://besgroup.org/2018/08/07/how-the-urban-jungle-drives-evolution-2-javan-mynas/ (blog)
 https://www.youtube.com/watch?v=tor2M34DiBQ
@@ -46,11 +46,11 @@ More than a myna problem:
 
 The Javan myna’s adaptability to urban settings has allowed them to multiply to pestilent levels, affecting the nation’s human and non-human residents. The communal roosting behaviour of the Javan myna has become a source of disruption and inconvenience in various areas. The number of individual mynas that gather at a single roost tree can reach into the hundreds, creating a chorus of collective calls. The resulting cacophonies are not only irritating but often pose a genuine nuisance to the well-being of local residents.    In places like Potong Pasir, the early morning and evening hours are often disturbed by the piercing calls of these myna birds.  Reportedly, the calls can get so loud as to drown out even the sounds from television sets.  The morning cacophony robs residents of precious rest, while attempts to unwind in the evening are thwarted as the mynas return to their roosts and their calls reach a crescendo.
 
-The prevalence of Javan mynas in food centres also brings about its own set of problems, particularly in terms of hygiene. Their droppings, which are abundant due to the large numbers congregating, pose a cleanliness hazard. The accumulation of myna droppings are only unsightly, but also raises concerns about the spread of diseases. 
+The prevalence of Javan mynas in food centres also brings about its own set of problems, particularly in terms of hygiene. Their droppings, which are abundant due to the large numbers congregating, pose a cleanliness hazard. The accumulation of myna droppings is not only unsightly, but also raises concerns about the spread of diseases.
 
-The proliferation of Javan mynas, along with other avian species like the house crow and rock dove, has resulted in a surge of bird-related complaints over the past decade. Their growing presence has disrupted public well-being, impacting the quality of life for residents in affected areas.  At the same time, the biodiversity of Singapore is also affected. The aggressive disposition of A. javanicus affords them the ability to strong-arm and ‘bully’ shier, less-aggressive native birds from resources and roosts.  While the common myna is a prominent example, ornithologists speculate that the reduction in population of other native birds, like the  Oriental Magpie Robin, could be caused by the Javan myna as well.  
+At the same time, the biodiversity of Singapore is also affected. The aggressive disposition of A. javanicus affords them the ability to strong-arm and ‘bully’ shier, less-aggressive native birds from resources and roosts.  While the common myna is a prominent example, ornithologists speculate that the reduction in population of other native birds, like the  Oriental Magpie Robin, could be caused by the Javan myna as well.  
 
-A decades long battle:
+# A decades-long battle:
 The management of Javan mynas in Singapore has been a longstanding issue, marked by conflict and varying perceptions. These birds have been widely regarded as a threat to public health and well-being, firmly establishing their status as pests in the collective consciousness of residents. For many years, the Javan myna, along with five other bird species, was classified as an "outlaw" under Singapore's Wild Animals and Birds Act of 2000, exempting them from the country's stringent wildlife protection laws.  However, this exclusion was eventually repealed in 2020, making it now a lawful offence for a member of the public to harm the birds. 
 
 The responsibility of implementing myna population control measures currently falls largely under the Agri-food and Veterinary Authority of Singapore (AVA).  Over the years, several stop-gap measures have been employed to manage mynah populations. One common approach involves pruning the crowns of trees in residential areas to reduce the availability of favourable nesting sites for mynas.    Additionally, various experimental methods have been explored, such as using lasers and chemical repellents to deter the birds from roosting.    Businesses along Singapore's popular shopping district, Orchard Road, even considered releasing hawks, a natural predator of mynas, as a means of deterrence.  More experimental methods, such as passing electrical currents through the roots of roost trees to disrupt the mynas' roosting behaviour, have also been tested. Unfortunately, most of these measures have proven ineffective in producing sustainable long-term results.  The population of Javan myna, and consequently, the complaints associated with their proliferation remains at an all time high.
@@ -67,7 +67,45 @@ The issue of managing Javan myna populations in Singapore is far from straightfo
 Ultimately, the management of Javan myna populations in Singapore serves as a microcosm of the larger global challenge of navigating the nature-urban interface. Like many other countries, Singapore is gearing for increased integration between nature and the urban environment.    In this pursuit, conflicts between societal needs and the natural world inevitably arise, posing difficult questions about what integration entails. Should we only admit aesthetically pleasing aspects of the environment into our communities? Should any natural features and fauna that prove inconvenient to urban life be neutered and removed? These questions perhaps lead to a more fundamental query about the values we place on the natural world and how we act and manage ourselves and the environment that is consistent with these values.
 
 
-
-https://zbib.org/fb595a0b9086469eb7880cd1cf443af7
-
-
+[^1]: BirdLife International, ‘IUCN Red List of Threatened Species’.
+[^2]: Schmitt and Edwards, ‘Passerine Birds’.
+[^3]: Lim et al., ‘Undesirable Aliens’.
+[^4]: Deignan, ‘An Annotated Checklist of the Birds of Malaya C. A. Gibson-Hill’.
+[^5]: Lim et al., ‘Undesirable Aliens’.
+[^6]: Lim and Ho, ‘Acridotheres Javanicus - Javan Myna - Taxo4254’.
+[^7]: Choo, ‘“Cacophony” of Mynah Birds a Headache for Some Potong Pasir Residents’.
+[^8]: Javan Myna (Acridotheres Javanicus) - BirdLife Species Factsheet’.
+[^9]: Yap, ‘A Study of the Changes in the Range Sizes of White-Vented Mynas in Singapore ’.
+[^10]: 
+[^11]: 
+[^12]: 
+[^13]: Jaiswal and Williams, ‘A Glimpse of Ayurveda – The Forgotten History and Principles of Indian Traditional Medicine’.
+[^14]: Patwardhan et al., ‘Ayurveda and Traditional Chinese Medicine’.
+[^15]: Haberman, *People Trees*.
+[^16]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^17]: Chandrasekar et al., ‘Phytopharmacology of *Ficus Religiosa*’.
+[^18]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^19]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
+[^20]: National Geographic, ‘Buddhism’.
+[^21]: Black, ‘Buddhism in the Shadow of Brahmanism. By Johannes Bronkhorst.’
+[^22]: Singh, ‘Bodhi Tree’.
+[^23]: Singh, ‘Bodhi Tree’.
+[^24]: Singh, ‘Bodhi Tree’.
+[^25]: Singh, ‘Bodhi Tree’.
+[^26]: Unidentified, *Luohans*
+[^27]: Unidentified, *Luohans*
+[^28]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^29]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^30]: Matteini, ‘Written on a Bodhi Tree Leaf’
+[^31]: Australian Government, ‘Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making’.
+[^32]: Australian Government, ‘Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making’.
+[^33]: Statista, ‘Singapore’.
+[^34]: Leong, Wee Keat. ‘Court Rejects Devotees’ Case’.
+[^35]: WildSingapore, ‘100-Year-Old Tree May Save Temple’.
+[^36]: WildSingapore, ‘100-Year-Old Tree May Save Temple’.
+[^37]: WildSingapore, ‘100-Year-Old Tree May Save Temple’.
+[^38]: Chek, ‘Visiting Bartley Residences – Musings’.
+[^39]: National Parks Board, ‘Heritage Trees’.
+[^40]: WildSingapore, ‘100-Year-Old Tree May Save Temple’.
+[^41]: The Biodiversity of Singapore, ‘Ficus Religiosa’.
+[^42]: Machado et al., ‘Phylogenetic Relationships, Historical Biogeography and Character Evolution of Fig-Pollinating Wasps’.
