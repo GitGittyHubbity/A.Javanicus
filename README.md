@@ -23,15 +23,16 @@ Distribution of Javan mynas in Singapore - Data and construction by Boo, J.T.C.,
 Retrieved from https://wiki.nus.edu.sg/display/TAX/Acridotheres+javanicus+-+Javan+Myna#Footnote11
 
 Javan mynas have become a familiar sight in Singapore, perching on trees and buildings, and their distinctive calls can be heard throughout the city. The main reason for the Javan mynas’ success, is that they are highly adaptable and are opportunistic feeders, consuming a variety of foods including fruits, insects, small vertebrates, and human leftovers. Like many urban-adapted animals, Javan mynas are not only extremely tolerant of humans but are bold enough to feed and forage near humans, leading to them being a common sight in food centres and other areas where food waste is abundant. Their boldness also enables them to access other ephemeral food sources present within urban districts.[^10] Javan mynas are reportedly unafraid to steal food from kitchens or raid the food bowls of pets.[^11] In foraging, the mynas also exhibit a measure of intelligence. Some have learned to associate the gardening activities of humans with the displacement of subterranean arthropods like millipedes and worms and have taken to congregating around gardeners for an easy meal.[^12]
- 
-By Wee YC from https://besgroup.org/2018/08/07/how-the-urban-jungle-drives-evolution-2-javan-mynas/ (blog)
-https://www.youtube.com/watch?v=tor2M34DiBQ
-Javan mynah raiding a HDB kitchen for food
+
+<param ve-image 
+       title="Javan Myna" 
+       url="https://besgroup.org/wp-content/uploads/MynaJ-kitchen-yc-1.jpg"
+       description="Javan mynah raiding a HDB kitchen for food"
+       attribution="Image by Wee YC posted on bird ecology study group"
+       fit="contain">
+<param ve-video id="tor2M34DiBQ" title="Javan mynas invade kitchen">
 
 The Javan mynas' social nature further enables them to survive the perils of urban predators. The birds commonly engage in foraging and roaming activities in groups of two or more individuals. During these foraging excursions, one myna assumes the role of a lookout while the others feed. This cooperative behaviour ensures the safety of the group as the sentinel myna remains vigilant for potential dangers.[^13] If a predator approaches, such as a house cat, the sentinel myna emits loud calls to alert the group, prompting a coordinated escape. In some cases, Javan myna scouts have been observed following and even harassing house cats, constantly calling out to keep other mynas aware of their location.[^14]
-
-https://www.youtube.com/watch?v=dJKgJAP9VH4
-Javan myna birdsong. Good example around 0.42-0.46
 
 This cooperative behaviour provides an important defensive measure against urban predators. Around the world, domestic cats kill an estimated 1.3–4.0 billion birds annually and are responsible for the extinction and endangerment of numerous bird species in various regions.[^15] With domestic and stray cats being common sight in urban areas like Singapore, the ability of Javan mynas to defend themselves from cat predation undoubtedly allows them to perform better than their avian counterparts in urban environments. 
 
@@ -45,6 +46,8 @@ The story of the common myna traces a remarkable similarity to that of its Javan
 # More than a myna problem:
 
 The Javan myna’s adaptability to urban settings has allowed them to multiply to pestilent levels, affecting the nation’s human and non-human residents. The communal roosting behaviour of the Javan myna has become a source of disruption and inconvenience in various areas. The number of individual mynas that gather at a single roost tree can reach into the hundreds, creating a chorus of collective calls. The resulting cacophonies are not only irritating but often pose a genuine nuisance to the well-being of local residents.[^22] [^23] In places like Potong Pasir, the early morning and evening hours are often disturbed by the piercing calls of these myna birds.[^24] Reportedly, the calls can get so loud as to drown out even the sounds from television sets.[^25] The morning cacophony robs residents of precious rest, while attempts to unwind in the evening are thwarted as the mynas return to their roosts and their calls reach a crescendo.
+<param ve-video id="dJKgJAP9VH4" title="Javan myna birdsong" start = "0:42">
+
 
 The prevalence of Javan mynas in food centres also brings about its own set of problems, particularly in terms of hygiene. Their droppings, which are abundant due to the large numbers congregating, pose a cleanliness hazard. The accumulation of myna droppings is not only unsightly, but also raises concerns about the spread of diseases.[^26]
 
