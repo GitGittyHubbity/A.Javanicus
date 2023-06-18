@@ -63,7 +63,7 @@ The responsibility of implementing myna population control measures currently fa
 
 <param ve-image 
        title="Crested goshawk" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/40/Accipiter_trivirgatus_PA273291.jpg "
+       url="https://upload.wikimedia.org/wikipedia/commons/4/40/Accipiter_trivirgatus_PA273291.jpg"
        description="One of the many raptorial predators of Javan mynas"
        attribution="Alnus - Own work"
        license="CC BY-NC"
