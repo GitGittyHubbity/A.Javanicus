@@ -37,9 +37,13 @@ The Javan mynas' social nature further enables them to survive the perils of urb
 This cooperative behaviour provides an important defensive measure against urban predators. Around the world, domestic cats kill an estimated 1.3–4.0 billion birds annually and are responsible for the extinction and endangerment of numerous bird species in various regions.[^15] With domestic and stray cats being common sight in urban areas like Singapore, the ability of Javan mynas to defend themselves from cat predation undoubtedly allows them to perform better than their avian counterparts in urban environments. 
 
 Interestingly, the current daring and aggressive behaviour exhibited by Javan mynas in Singapore was not always the case. Before the 1970s, the common mynah was the dominant myna species associated with Singapore's urban landscape. Ornithologists considered the common myna “bold”.[^16] The Javan myna, on the other hand, was described as shy and averse to humans and was largely observed in the suburbs.[^17] However, over time, the Javan mynas in Singapore have developed a tolerance for human presence and have taken over the urban environment, displacing and outcompeting the common mynah.[^18] Today, the territories of the two species in Singapore have been flipped; the old urban haunts of the common myna have been taken over by their Javan counterparts and the common myna have been relegated to rural suburbs.[^19]
- 
-https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg
-Gerrie van Vuuren - Own work - wikimedia commons.
+<param ve-image 
+       title="The Common myna" 
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Acridotheres_tristis00.jpg"
+       description="The common myna can be distinguished by their brown coat"
+       attribution="Gerrie van Vuuren - Own work"
+       license="CC BY-NC"
+       fit="contain">
 
 The story of the common myna traces a remarkable similarity to that of its Javan competitor. Where the common myna has been displaced by the more aggressive Javan myna in Singapore, they represent huge invasive pests in numerous other regions such as Australia, New Zealand and Hawaii.[^20] In Australia for example, the common myna poses a massive threat to native endangered bird species by competing for limited roosting spots and parasitising their nests.[^21] In this, the common myna ironically perpetuates the plight it suffers in Singapore. Both birds are imperilled in their native range yet proliferate at the expense of other biodiversity in their introduced habitats.
 
@@ -62,8 +66,12 @@ Crested goshawk, one of the many raptorial predators of Javan mynas
 Alnus - Own work - wikimedia commons
 
 A controversial yet often employed method of the management of many invasive species around the world is culling. The Javan mynas are not exempt. In the afore-mentioned Potong Pasir area, authorities have trialled the use of a giant net to trap mynas roosting and cull them via carbon dioxide gassing.[^38] However, such culling measures have sparked significant controversy and criticism. Registered animal welfare charity, Animal Concerns and Research Society (ACRES) have expressed concerns regarding AVA’s measures on grounds of morality and practical effectiveness.[^39] N Sivasothi, a renowned local professor in biological sciences at the National University of Singapore (NUS), similarly expressed disappointment in AVA's measures.[^40] Detractors argue that culling fails to address the root causes of the myna population increase, which many attribute to current landscaping practices and inadequate food waste management.[^41] [^42] Indeed ACRES allegedly observed that the culling of certain pest species in the past only reduced competition for other pest species, thus leading to the population increase of other pests.[^43] 
- 
-Photo from mothership.sg by Pengkon Lau
+<param ve-image 
+       title="Tree traps for Javan myna set up at Potong Pasir" 
+       url="https://raw.githubusercontent.com/GitGittyHubbity/A.Javanicus/main/Javan_myna_trap.jpg"
+       description="The common myna can be distinguished by their brown coat"
+       attribution="The large hood-like traps would then be sealed and the mynas inside would be gassed via carbon dioxide"
+       fit="contain">
 
 The issue of managing Javan myna populations in Singapore is far from straightforward. While robust waste management practices may play a role in limiting the proliferation of urban pests [^44], it is clear that current measures have not proven effective for managing Javan myna populations. Unlike other avian pests such as crows, the mynas seem to thrive despite the authorities’ best efforts. The complex ecology of built environments presents a multitude of factors contributing to the propagation of myna populations. Ultimately, the management of Javan myna populations in Singapore serves as a microcosm of the larger global challenge of navigating the nature-urban interface. Like many other countries, Singapore is gearing for increased integration between nature and the urban environment.[^45] [^46] In this pursuit, conflicts between societal needs and the natural world inevitably arise, posing difficult questions about what integration entails. Should we only admit aesthetically pleasing aspects of the environment into our communities? Should any natural features and fauna that prove inconvenient to urban life be neutered and removed? These questions perhaps lead to a more fundamental query about the values we place on the natural world and how we act and manage ourselves and the environment that is consistent with these values.
 
