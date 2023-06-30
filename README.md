@@ -1,7 +1,7 @@
 <param ve-config 
        title="Javan Mynas: Endangered Pests"
        author="Foo Shi Wen"
-       banner="https://upload.wikimedia.org/wikipedia/commons/3/35/Singapore_Botanic_Gardens_%2812299358175%29.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/35/125,15,120,140/full/0/Singapore_Botanic_Gardens_%2812299358175%29.jpg"
        layout="vertical">
 
 ## Acridotheres javanicus - Javan Myna
